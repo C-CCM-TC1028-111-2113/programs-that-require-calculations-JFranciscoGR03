@@ -8,9 +8,9 @@ def main():
     resta=number1-number2
     multiplication=number1*number2
     
-    print (suma)
-    print (resta)
-    print (multiplication)
+    print ('suma= ' + str(suma))
+    print ('resta= ' + str(resta))
+    print ('multiplication= ' + str(multiplication))
     
     
     pass
