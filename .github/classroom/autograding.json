@@ -1,0 +1,94 @@
+{
+  "tests": [
+    {
+      "name": "Hello World",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/00HelloWorld",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Operaciones Básicas",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/01OperacionesBasicas",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Área Triángulo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/02AreaTriangulo",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Premedio Calificaciones",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/03Promedio",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Calcula tiempo",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/04CalculaTiempo",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Calcula lustros",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/05Lustros",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Calcula peso por mes",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/06Peso",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "PEMDAS",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/11PEMDAS",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "Levadura para Pizza",
+      "setup": "sudo -H pip3 install pytest",
+      "run": "pytest assignments/21LevaduraParaPizza",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
