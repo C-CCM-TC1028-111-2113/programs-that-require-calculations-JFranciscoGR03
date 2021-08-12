@@ -6,11 +6,11 @@ def main():
     number2=int(input())
     suma=number1+number2
     resta=number1-number2
-    multiplication=number1*number2
+    multiplicación=number1*number2
     
-    print ('suma= ' + str(suma))
-    print ('resta= ' + str(resta))
-    print ('multiplication= ' + str(multiplication))
+    print ('Addition= ' + str(suma))
+    print ('Substraction= ' + str(resta))
+    print ('Multiplication= ' + str(multiplication))
     
     
     pass
