@@ -1,16 +1,14 @@
 def main():
     #escribe tu código abajo de esta línea
-    print ('Introduce a number')
-    number1=int(input())
-    print ('Introduce another number')
-    number2=int(input())
-    suma=number1+number2
-    resta=number1-number2
-    multiplicación=number1*number2
+    número1=int(input('Dame un número:'))
+    número2=int(input('Dame un número:'))
+    suma=número1+número2
+    resta=número1-número2
+    multiplicación=número1*número2
     
-    print ('Addition= ' + str(suma))
-    print ('Substraction= ' + str(resta))
-    print ('Multiplication= ' + str(multiplication))
+    print ('Suma= ' + str(suma))
+    print ('Resta= ' + str(resta))
+    print ('Multiplicación= ' + str(multiplicación))
     
     
     pass
