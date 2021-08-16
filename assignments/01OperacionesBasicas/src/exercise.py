@@ -6,9 +6,9 @@ def main():
     resta= numero1 - numero2
     multiplicacion= numero1 * numero2
     
-    print("Suma:", suma)
-    print("Resta:", resta)
-    print("Multiplicación:", multiplicacion)
+    print("Suma:", + str(suma))
+    print("Resta:", + str(resta))
+    print("Multiplicación:" + str(multiplicacion))
     
     
 
